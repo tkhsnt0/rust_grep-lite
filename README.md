@@ -3,7 +3,9 @@ It outputs lines that contain a string pattern you want to search for from stand
 ## Build
 ```
 cargo build
+```
 or
+```
 cargo build --release
 ```
 ## Usage
